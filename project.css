@@ -1,0 +1,67 @@
+h1{
+	color:gray;
+}
+body{
+	background-color:(gray);
+	font-family:Georgia;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 1.6em;
+
+}
+ nav {
+            background-color: purple;
+        }
+        nav table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        nav td {
+            width: 25%; /* Ensure each cell takes an equal share of the table width */
+            text-align: center;
+            padding: 14px 0; /* Adjust padding to make clickable area larger */
+        }
+        nav a {
+            display: block;
+            color: white;
+            text-decoration: none;
+            padding: 14px 16px;
+        }
+        nav a:hover {
+            background-color: gray;
+        }
+
+
+p{
+	color:black;
+}
+.container{
+	width:400px;
+	margin:auto;
+}
+.box-1{
+	background-color:black;
+	color:#696969;
+}
+	table {
+		width: 500px;
+		/*border-spacing: 40px;*/
+	}
+	th{
+		text-align:left;
+	}
+	table, th, td {
+		border: 1px solid #000;
+		border-collapse: collapse;
+		
+	}
+	th, td {
+		padding: 10px;
+	}
+	
+	.img-family {
+		width: 300px;	
+
+	}
+
+	
